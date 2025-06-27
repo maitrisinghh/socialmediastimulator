@@ -16,5 +16,3 @@ A console-based social media simulation game built in Python. This project allow
 - Python 3
 - Object-Oriented Programming (OOP)
 
-## 📂 Project Structure
-
